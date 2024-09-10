@@ -1,0 +1,9 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|Q9BYF1|ACE2_HUMAN_WILD     100.00   99.88   99.88
+     2: sp|Q9BYF1|ACE2_HUMAN_MUTANT1   99.88  100.00   99.88
+     3: sp|Q9BYF1|ACE2_HUMAN_MUTANT2   99.88   99.88  100.00
